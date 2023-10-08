@@ -14,7 +14,7 @@ require (
 	github.com/charmbracelet/bubbles v0.15.0
 	github.com/charmbracelet/bubbletea v0.23.3-0.20230316100943-248eb83001a7
 	github.com/charmbracelet/lipgloss v0.7.1
-	github.com/cli/cli/v2 v2.32.0
+	github.com/cli/cli/v2 v2.36.0
 	github.com/cli/go-gh v1.2.1
 	github.com/cli/safeexec v1.0.1
 	github.com/compose-spec/compose-go v1.17.0
@@ -59,7 +59,7 @@ require (
 	github.com/xlab/treeprint v1.2.0
 	golang.org/x/oauth2 v0.10.0
 	golang.org/x/sync v0.3.0
-	golang.org/x/term v0.10.0
+	golang.org/x/term v0.11.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.27.3
@@ -83,7 +83,7 @@ require (
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/charmbracelet/harmonica v0.2.0 // indirect
-	github.com/cli/go-gh/v2 v2.0.1 // indirect
+	github.com/cli/go-gh/v2 v2.3.0 // indirect
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/containerd/cgroups v1.1.0 // indirect
 	github.com/containerd/console v1.0.4-0.20230313162750-1ae8d489ac81 // indirect
@@ -187,11 +187,11 @@ require (
 	go.opencensus.io v0.24.0 // indirect
 	go.opentelemetry.io/otel v1.14.0 // indirect
 	go.opentelemetry.io/otel/trace v1.14.0 // indirect
-	golang.org/x/crypto v0.11.0 // indirect
+	golang.org/x/crypto v0.12.0 // indirect
 	golang.org/x/mod v0.10.0 // indirect
-	golang.org/x/net v0.12.0 // indirect
-	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/net v0.14.0 // indirect
+	golang.org/x/sys v0.11.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/tools v0.9.3 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20230306155012-7f2fa6fef1f4 // indirect
